@@ -1,0 +1,36 @@
+name: Update projects
+
+on:
+  repository_dispatch:
+    types: [projects-updated] # sent by the website when a project is published, changed or removed
+  schedule:
+    - cron: "17 6 * * *" # daily, in case a notification was missed
+  workflow_dispatch: # "Run workflow" button on the Actions tab
+  push:
+    branches: [main]
+    paths: [extra-projects.json, scripts/update-projects.mjs, .github/workflows/update-projects.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-projects
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/update-projects.mjs
+      - name: Commit changes
+        run: |
+          git add -A README.md assets
+          if git diff --cached --quiet; then echo "No changes."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update projects"
+          git push

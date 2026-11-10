@@ -20,33 +20,37 @@
 
 ## Released
 
+<!-- projects:start -->
 <table>
   <tr>
-    <td width="72" align="center"><img src="assets/tabmail-icon.png" width="48" alt=""></td>
-    <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/tabmail">TabMail</a></b><br>Fully customizable tabs for Gmail: colors, icons, groups, unread badges, custom search filters and more.</td>
-    <td align="center"><a href="https://chromewebstore.google.com/detail/tabmail/gccbaemahdbndlkbcclaompnfnaanjld">Install</a></td>
+    <td width="72" align="center"><img src="assets/projects/delayed-send.png" width="48" alt=""></td>
+    <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/delayed-send">Delayed Send for Claude.ai</a></b><br>Type your next Claude.ai prompt now and have it auto-sent after your usage limit resets — set a countdown and walk away.</td>
+    <td align="center"><a href="https://chromewebstore.google.com/detail/delayed-send-for-claudeai/lkgbafpinkcmohbalmdkoccmbpififpm">Install</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/dashtab-icon.png" width="48" alt=""></td>
-    <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/dashtab">Dashtab</a></b><br>A fully customizable new tab dashboard: background, widgets, weather, clock, to-dos and Google shortcuts.</td>
+    <td width="72" align="center"><img src="assets/projects/dashtab.png" width="48" alt=""></td>
+    <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/dashtab">Dashtab</a></b><br>Dashtab: a fully customizable new tab dashboard — background, widgets, weather, clock, to-dos, and Google shortcuts.</td>
     <td align="center"><a href="https://chromewebstore.google.com/detail/dashtab/igkakfogjgeebbfdpogffbcjeminmhic">Install</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/finishlater-icon.png" width="48" alt=""></td>
-    <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/finishlater">FinishLater</a></b><br>Save unfinished webpages, clear your tabs, and come back to them with a reminder.</td>
+    <td width="72" align="center"><img src="assets/projects/finishlater.png" width="48" alt=""></td>
+    <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/finishlater">FinishLater</a></b><br>Save unfinished webpages, clear your tabs, and return with a reminder.</td>
     <td align="center"><a href="https://chromewebstore.google.com/detail/finishlater/noifggioedllbmnhcjambnhiicakcmkn">Install</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/profilevault-icon.png" width="48" alt=""></td>
+    <td width="72" align="center"><img src="assets/projects/profilevault.png" width="48" alt=""></td>
     <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/profilevault">ProfileVault</a></b><br>Lock your whole Chrome profile with a password. Windows close on lock and reopen as you left them when you unlock.</td>
     <td align="center"><a href="https://chromewebstore.google.com/detail/profilevault/kpgfpdookjopecfokjlhdfnidlnopjna">Install</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/delayed-send-icon.png" width="48" alt=""></td>
-    <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/delayed-send">Delayed Send for Claude.ai</a></b><br>Type your next Claude.ai prompt now and have it sent automatically once your usage limit resets.</td>
-    <td align="center"><a href="https://chromewebstore.google.com/detail/delayed-send-for-claudeai/lkgbafpinkcmohbalmdkoccmbpififpm">Install</a></td>
+    <td width="72" align="center"><img src="assets/projects/tabmail.png" width="48" alt=""></td>
+    <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/tabmail">TabMail</a></b><br>Fully customizable tabs for Gmail — colors, icons, groups, unread badges, custom search filters, and more.</td>
+    <td align="center"><a href="https://chromewebstore.google.com/detail/tabmail/gccbaemahdbndlkbcclaompnfnaanjld">Install</a></td>
   </tr>
 </table>
+<!-- projects:end -->
+
+<sub>This list updates itself from the website. See <a href="HOW-TO-ADD-PROJECTS.md">how to add a project</a>.</sub>
 
 More are on the way. See everything at **[ymdevsolutions.onrender.com/projects](https://ymdevsolutions.onrender.com/en/projects)**.
 
