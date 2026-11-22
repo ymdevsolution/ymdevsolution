@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://ymdevsolutions.onrender.com"><img src="https://img.shields.io/badge/Website-ymdevsolutions-2252c9?style=flat-square" alt="Website"></a>
-  <a href="https://ymdevsolutions.onrender.com/en/projects"><img src="https://img.shields.io/badge/Projects-5_released-0b1630?style=flat-square" alt="Projects"></a>
+  <a href="https://ymdevsolutions.onrender.com/en/projects"><img src="https://img.shields.io/badge/Projects-6_released-0b1630?style=flat-square" alt="Projects"></a>
   <a href="mailto:ymdevsolution@gmail.com"><img src="https://img.shields.io/badge/Email-ymdevsolution%40gmail.com-0ea5c6?style=flat-square" alt="Email"></a>
 </p>
 
@@ -46,6 +46,11 @@
     <td width="72" align="center"><img src="assets/projects/tabmail.png" width="48" alt=""></td>
     <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/tabmail">TabMail</a></b><br>Fully customizable tabs for Gmail — colors, icons, groups, unread badges, custom search filters, and more.</td>
     <td align="center"><a href="https://chromewebstore.google.com/detail/tabmail/gccbaemahdbndlkbcclaompnfnaanjld">Install</a></td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><img src="assets/projects/sitelab.png" width="48" alt=""></td>
+    <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/sitelab">SiteLab</a></b><br></td>
+    <td align="center"></td>
   </tr>
 </table>
 <!-- projects:end -->
