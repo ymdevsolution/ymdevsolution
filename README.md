@@ -50,7 +50,7 @@
   <tr>
     <td width="72" align="center"><img src="assets/projects/sitelab.png" width="48" alt=""></td>
     <td><b><a href="https://ymdevsolutions.onrender.com/en/projects/sitelab">SiteLab</a></b><br>Test any site as a phone, in dark mode, another language or country, offline or on slow 3G. Mock APIs, audit a11y &amp; SEO and more.</td>
-    <td align="center"></td>
+    <td align="center"><a href="https://chromewebstore.google.com/detail/sitelab-website-testing-t/bkkfjaooikalkpopgonljofcodfppljn">Install</a></td>
   </tr>
 </table>
 <!-- projects:end -->
